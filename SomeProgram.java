@@ -10,7 +10,7 @@ public class SomeProgram {
 public void manageTheRocket() {
     // TODO implement
 }
-    public void manageUGO() {
+    public void manageUFO() {
     System.out.println("Watch out for extraterrestial forces!");
 }
 }
